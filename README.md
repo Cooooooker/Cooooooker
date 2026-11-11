@@ -1,5 +1,3 @@
-### Hi, I'm Zhipeng 👋
-
 Engineer in Chengdu. Started on iOS, moved to Go backends, now building native UI in Rust, with AI agents in the loop every day.
 
 #### Working on
@@ -16,4 +14,4 @@ Engineer in Chengdu. Started on iOS, moved to Go backends, now building native U
 
 #### Tech
 
-Rust · Go · TypeScript · Swift · Objective-C · WebAssembly · iOS · Android
+Rust · Go · TypeScript · Swift · Objective-C · iOS
