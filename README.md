@@ -1,15 +1,6 @@
-<div align="center">
+### Hi, I'm Zhipeng 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Zhipeng+Cheng+%F0%9F%91%8B;iOS+%E2%86%92+Go+backend+%E2%86%92+Rust+native+UI;Building+with+AI+agents%2C+every+day;Investigate+things%2C+extend+knowledge." alt="Typing SVG" />
-
-<p>
-  <img src="https://img.shields.io/badge/Chengdu,_China-0D1117?style=flat-square&logo=googlemaps&logoColor=EA4335" />
-  <a href="mailto:chengzhipeng.dev@gmail.com"><img src="https://img.shields.io/badge/chengzhipeng.dev@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
-  <a href="https://chengzhipeng.github.io"><img src="https://img.shields.io/badge/Blog-0D1117?style=flat-square&logo=githubpages&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Cooooooker&style=flat-square&color=58A6FF&label=views" />
-</p>
-
-</div>
+Engineer in Chengdu. Started on iOS, moved to Go backends, now building native UI in Rust, with AI agents in the loop every day.
 
 ```rust
 struct Engineer {
@@ -24,7 +15,7 @@ const ME: Engineer = Engineer {
     name:     "Zhipeng Cheng",
     location: "Chengdu, China",
     path:     ["iOS (Objective-C / Swift)", "Backend (Go)", "Native UI runtime (Rust)"],
-    now:      &["Native Shell: TSX → native views on 7 platforms", "Agent-driven development"],
+    now:      &["Native Shell: TSX → native views on 7 platforms", "Aloud Ink: AI voice input"],
     motto:    "Investigate things, extend knowledge.",
 };
 ```
@@ -52,20 +43,30 @@ const ME: Engineer = Engineer {
 <tr>
 <td width="50%" valign="top">
 
-**[Native Shell (NSH)](https://github.com/longbridge/nsh)**  
+#### 🧩 [Native Shell (NSH)](https://github.com/longbridge/nsh)
 <sub>TSX modules rendered with each platform's own UI: iOS, Android, macOS, Windows, Linux, GPUI and the web.</sub>
 
 ![](https://img.shields.io/github/stars/longbridge/nsh?style=flat-square&logo=github&color=58A6FF)
-![](https://img.shields.io/badge/merged_PRs-37+-8957E5?style=flat-square&logo=githubactions&logoColor=white)
+![](https://img.shields.io/badge/merged_PRs-37+-8957E5?style=flat-square&logo=git&logoColor=white)
+
+- ✏️ `RichEditor`: IME composition, touch selection, undo grouping
+- 😀 `EmojiPicker`: search over every emoji, virtualized grid
+- 🌐 Web runtime: text measuring, clipboard images, input methods
+- 📱 iOS / Android: keyboard, modals, swipe-back, touch responders
 
 </td>
 <td width="50%" valign="top">
 
-**Highlights**
-- ✏️ `RichEditor`: IME composition, touch selection & system edit menu, undo grouping
-- 😀 `EmojiPicker`: search over every emoji, virtualized grid
-- 🌐 Web runtime: text measuring, clipboard images, input methods
-- 📱 iOS / Android: keyboard, modals, swipe-back, touch responders
+#### 🎙️ [Aloud Ink](https://aloud.ink): 说出来，就成文
+<sub>AI voice input: press a key, speak, and clean text lands at your cursor. Co-built with [@griffinqiu](https://github.com/griffinqiu).</sub>
+
+![](https://img.shields.io/badge/aloud.ink-live-2EA043?style=flat-square)
+![](https://img.shields.io/badge/macOS_·_iOS-000000?style=flat-square&logo=apple)
+
+- 🖥️ macOS client in Rust + GPUI: global hotkey, HUD that keeps focus
+- ⚡ Audio streamed over WebSocket to a Go server
+- 🧠 ASR, then an LLM strips filler words; text typed back at the cursor
+- 📱 iOS keyboard extension on the same protocol
 
 </td>
 </tr>
