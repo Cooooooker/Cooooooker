@@ -72,6 +72,15 @@ const ME: Engineer = Engineer {
 </tr>
 </table>
 
+#### More from [Longbridge open source](https://github.com/longbridge)
+
+| Project | |
+|---|---|
+| [longbridge-terminal](https://github.com/longbridge/longbridge-terminal) ![](https://img.shields.io/github/stars/longbridge/longbridge-terminal?style=flat-square&label=%E2%98%85&color=555) | AI-native CLI for the Longbridge trading platform (Rust) |
+| [openapi](https://github.com/longbridge/openapi) ![](https://img.shields.io/github/stars/longbridge/openapi?style=flat-square&label=%E2%98%85&color=555) · [openapi-go](https://github.com/longbridge/openapi-go) | Longbridge OpenAPI SDKs (Rust core, Go) |
+| [developers](https://github.com/longbridge/developers) | Longbridge developer docs site (TypeScript) |
+| [nsh-compat](https://github.com/longbridge/nsh-compat) | The API NSH releases froze, and the checks that hold NSH to it |
+
 ### 📊 GitHub Stats
 
 <div align="center">
