@@ -39,38 +39,8 @@ const ME: Engineer = Engineer {
 
 ### 🔭 What I'm working on
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🧩 [Native Shell (NSH)](https://github.com/longbridge/nsh)
-<sub>TSX modules rendered with each platform's own UI: iOS, Android, macOS, Windows, Linux, GPUI and the web.</sub>
-
-![](https://img.shields.io/github/stars/longbridge/nsh?style=flat-square&logo=github&color=58A6FF)
-![](https://img.shields.io/badge/merged_PRs-37+-8957E5?style=flat-square&logo=git&logoColor=white)
-
-- ✏️ `RichEditor`: IME composition, touch selection, undo grouping
-- 😀 `EmojiPicker`: search over every emoji, virtualized grid
-- 🌐 Web runtime: text measuring, clipboard images, input methods
-- 📱 iOS / Android: keyboard, modals, swipe-back, touch responders
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎙️ [Aloud Ink](https://aloud.ink): 说出来，就成文
-<sub>AI voice input: press a key, speak, and clean text lands at your cursor. Co-built with [@griffinqiu](https://github.com/griffinqiu).</sub>
-
-![](https://img.shields.io/badge/aloud.ink-live-2EA043?style=flat-square)
-![](https://img.shields.io/badge/macOS_·_iOS-000000?style=flat-square&logo=apple)
-
-- 🖥️ macOS client in Rust + GPUI: global hotkey, HUD that keeps focus
-- ⚡ Audio streamed over WebSocket to a Go server
-- 🧠 ASR, then an LLM strips filler words; text typed back at the cursor
-- 📱 iOS keyboard extension on the same protocol
-
-</td>
-</tr>
-</table>
+- **[Native Shell (NSH)](https://github.com/longbridge/nsh)**: TSX modules rendered with each platform's own UI on iOS, Android, macOS, Windows, Linux, GPUI and the web. 37+ merged PRs: `RichEditor`, `EmojiPicker`, the web runtime, iOS / Android input.
+- **[Aloud Ink](https://aloud.ink)**: 说出来，就成文. AI voice input for macOS and iOS: speak, and clean text lands at your cursor. Rust + GPUI client, Go server. Co-built with [@griffinqiu](https://github.com/griffinqiu).
 
 #### More from [Longbridge open source](https://github.com/longbridge)
 
