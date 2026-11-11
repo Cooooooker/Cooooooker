@@ -80,17 +80,3 @@ const ME: Engineer = Engineer {
 | [openapi](https://github.com/longbridge/openapi) ![](https://img.shields.io/github/stars/longbridge/openapi?style=flat-square&label=%E2%98%85&color=555) · [openapi-go](https://github.com/longbridge/openapi-go) | Longbridge OpenAPI SDKs (Rust core, Go) |
 | [developers](https://github.com/longbridge/developers) | Longbridge developer docs site (TypeScript) |
 | [nsh-compat](https://github.com/longbridge/nsh-compat) | The API NSH releases froze, and the checks that hold NSH to it |
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="170" />
-  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" height="170" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Cooooooker&hide_border=true&theme=github-dark-blue&background=0D1117" />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cooooooker/Cooooooker/output/snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Cooooooker/Cooooooker/output/snake.svg" />
-</picture>
